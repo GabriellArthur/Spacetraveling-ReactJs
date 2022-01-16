@@ -1,1 +1,13 @@
-// TODO
+.header {
+   padding: 0 12rem;
+
+   a {
+       max-width: 720px;
+       width: 100%;
+       
+       img {
+           margin: 5rem auto 0;
+           margin-bottom: 3rem;
+       }
+   }
+}
