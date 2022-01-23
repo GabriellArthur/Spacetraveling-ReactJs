@@ -1,4 +1,5 @@
 # spacetraveling
+<img alt="Ignite" src="https://i.imgur.com/eCVyxxy.png">
 
 # 💻 Sobre o desafio
 
